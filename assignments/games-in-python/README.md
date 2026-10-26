@@ -31,6 +31,7 @@ Melhore a experiência de jogo validando os palpites e permitindo que o jogador 
 O programa concluído deve:
 
 - Aceitar letras maiúsculas e minúsculas sem diferenciar uma da outra.
-- Rejeitar entradas vazias ou que não sejam uma única letra, sem consumir uma tentativa.
+- Rejeitar entradas vazias ou que não contenham exatamente uma letra, sem consumir uma tentativa.
 - Avisar quando uma letra já tiver sido informada e não consumir uma tentativa nesse caso.
 - Perguntar ao jogador se deseja iniciar outra partida depois que uma terminar.
+- Ao aceitar, iniciar uma nova partida com a palavra, os palpites e as tentativas reiniciados.
