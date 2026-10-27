@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "json-book-catalog",
+      "title": "Persistent Book Catalog with JSON",
+      "description": "Practice loading and saving a book catalog with JSON files and Python's standard library.",
+      "path": "assignments/json-book-catalog",
+      "dueDate": "2026-11-03",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
